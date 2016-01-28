@@ -1,7 +1,7 @@
 # Facebook Counter Init
 
 ```
-wp_enqueue_script( 'bwhfacebook', 'https://rawgit.com/bwhontwerpers/fb/master/bwh.fb.js', array('jquery'), false, true);
+wp_enqueue_script( 'bwhfacebook', 'https://rawgit.com/bwhontwerpers/fb/master/fb.js', array('jquery'), false, true);
 ```
 
 ```
